@@ -2,7 +2,7 @@
 
 Deploy npm package `staticmaps` to a nodejs 8.10 lambda in aws.
 
-Because `staticmaps1` depends on `sharp` to manipulate images, the trick is to have the `sharp` npm module have the correct 
+Because `staticmaps` depends on `sharp` to manipulate images, the trick is to have the `sharp` npm module have the correct 
 platform files.
 
 ## My windows setup
